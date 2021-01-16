@@ -29,4 +29,4 @@ jobs:
         run: npm install
 
       - name: Run a multi-line script
-        run: npm run dev
+        run: npm run generate
